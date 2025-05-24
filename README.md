@@ -4,11 +4,11 @@ I build and deploy production-grade, AI-powered, cloud-native systems. My work s
 
 ## Core Competencies
 
-- **Machine Learning**: LLMs, RAG, neural networks, reinforcement learning, forecasting
-- **Cloud & DevOps**: AWS, GCP, Terraform, Docker, Kubernetes, CI/CD
-- **Data & Backend**: PySpark, SQL, Node.js, FastAPI, Flask
-- **Frontend**: React, SvelteKit, Tailwind CSS
-- **Tools**: GitHub Actions, Databricks, Tensorflow, Huggingface, PyTorch
+- **Machine Learning**: LLMs, RAG, Neural Networks, Reinforcement Learning, Time Series Prediction
+- **Cloud & DevOps**: AWS, GCP, Azure, Terraform, Docker, Kubernetes, CI/CD
+- **Data & Backend**: PySpark, SQL, Node.js, FastAPI
+- **Frontend**: React, SvelteKit, Next JS, Tailwind CSS
+- **Tools**: GitHub Actions, Databricks, Tensorflow, Huggingface, PyTorch, Blender
 - **Languages**: Python, JavaScript, TypeScript, Bash
 
 ## Current Focus
