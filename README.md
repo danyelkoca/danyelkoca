@@ -6,7 +6,7 @@ I build and deploy production-grade, AI-powered, cloud-native systems. My work s
 
 - **Machine Learning**: LLMs, RAG, neural networks, reinforcement learning, forecasting
 - **Cloud & DevOps**: AWS, GCP, Terraform, Docker, Kubernetes, CI/CD
-- **Data & Backend**: Python, PySpark, SQL, Node.js, FastAPI, Flask
+- **Data & Backend**: PySpark, SQL, Node.js, FastAPI, Flask
 - **Frontend**: React, SvelteKit, Tailwind CSS
 - **Tools**: GitHub Actions, Databricks, Tensorflow, Huggingface, PyTorch
 - **Languages**: Python, JavaScript, TypeScript, Bash
